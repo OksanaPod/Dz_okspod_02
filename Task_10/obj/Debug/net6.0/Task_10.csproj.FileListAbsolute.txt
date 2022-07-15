@@ -1,0 +1,15 @@
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\bin\Debug\net6.0\Task_10.exe
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\bin\Debug\net6.0\Task_10.deps.json
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\bin\Debug\net6.0\Task_10.dll
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\bin\Debug\net6.0\Task_10.pdb
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.dll
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\refint\Task_10.dll
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.pdb
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
+I:\GeekBrains\tema3\Dz_okspod_02\Task_10\obj\Debug\net6.0\ref\Task_10.dll
